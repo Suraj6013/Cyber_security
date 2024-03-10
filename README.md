@@ -5,4 +5,9 @@ Below is the working of S-DES algorithm.
 <img src="https://sandilands.info/crypto/sdes-keygen-encrypt-1-r1930.png" alt="MarineGEO circle logo" style="height: 500px; width:500px;"/>
 
 
-$ RSA
+# RSA
+RSA algorithm is an asymmetric cryptography algorithm.
+Asymmetric actually means that it works on two different keys i.e. Public Key and Private Key.
+
+<img src="https://static.javatpoint.com/blog/images/rsa-encryption-algorithm2.png" alt="MarineGEO circle logo" style="height: 500px; width:500px;"/>
+
