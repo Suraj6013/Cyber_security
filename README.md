@@ -1,3 +1,4 @@
+#S-DES
 Simplified Data Encryption Standard (S-DES) is a simple version of the DES Algorithm.
 It is similar to the DES algorithm but is a smaller algorithm and has fewer parameters than DES.
 Below is the working of S-DES algorithm.
