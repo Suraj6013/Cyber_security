@@ -88,8 +88,8 @@ l, r = divide_into_parts(p)
 l, r = apply_one_bit_left_shift(l, r)
 m = l + r
 key1 = apply_p8_permutation(m)
-print(key1)
+print("key1: ",key1)
 l, r = apply_two_bit_left_shift(l, r)
 m = l + r
 key2 = apply_p8_permutation(m)
-print(key2)
+print("key2: ",key2)
