@@ -23,10 +23,11 @@ while True:
     if (s*e)%t==1:
         x=s
     break
-
+c_text=0
 if decimal_message<n:
     c_text=(decimal_message**e)%n
-decimal_message=(c_text**d)%n
+    decimal_message=(c_text**d)%n
+    
 print("cipher text: ",c_text)
 decrypted_message = decimal_message.to_bytes((decimal_message.bit_length() + 7) // 8, 'big').decode()
 print("decimal message: ", decimal_message)
